@@ -7,7 +7,7 @@
     display: block;
     max-width: 1000;
     height: 380px;
-    background-image: url('1.jpg');
+    background-image: url('4.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -21,8 +21,9 @@
     font-size: 30px;
     cursor: pointer;
     position: absolute;
-    top: 10px;
+    top: 210px;
     right:270px;
+    text-decoration: none;
     
 }
 .header-text1 {
@@ -32,9 +33,9 @@
     font-size: 30px;
     cursor: pointer;
     position: absolute;
-    top: 10px;
+    top: 210px;
     right:58px;
-    
+    text-decoration: none;
 }
 .header-text2 {
     padding: 5px ;
@@ -43,9 +44,9 @@
     font-size: 30px;
     cursor: pointer;
     position: absolute;
-    top: 10px;
+    top: 210px;
     right:-117px;
-    
+    text-decoration: none;
 }
 
 .header-text3 {
@@ -55,11 +56,18 @@
     font-size: 30px;
     cursor: pointer;
     position: absolute;
-    top: 10px;
+    top: 210px;
     right:-270px;
+    text-decoration: none;
+}
+.hr1 {
+    width: 100%; 
+    height: 4px; 
+    background-color: black; 
+    border: none; 
+    position: absolute;
     
 }
-
 .hr {
         width: 100%; 
         height: 4px; 
